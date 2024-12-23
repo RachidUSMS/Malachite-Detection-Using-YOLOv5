@@ -1,0 +1,5 @@
+
+
+python detect.py --weights joumat.pt --img 640 --conf 0.25 --source 0
+
+
